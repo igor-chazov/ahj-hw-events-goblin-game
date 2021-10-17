@@ -1,7 +1,7 @@
 
 # Обработка событий
 
-[[Github Pages](https://igor-chazov.github.io/ahj-hw-events-goblin-game/)]
+[![Build status](https://ci.appveyor.com/api/projects/status/rxdac1l6v4guf1ct?svg=true)](https://ci.appveyor.com/project/igor-chazov/ahj-hw-events-goblin-game) [[Github Pages](https://igor-chazov.github.io/ahj-hw-events-goblin-game/)]
 
 Правила сдачи задания:
 
